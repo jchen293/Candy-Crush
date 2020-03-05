@@ -1,2 +1,2 @@
 # Candy-Crush
-A candy crush I made during my freshman year in Java GUI
+A candy crush game I made Java GUI
